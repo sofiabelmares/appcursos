@@ -1,0 +1,13 @@
+.color-editar{
+filter: invert(25%) sepia(3%) saturate(1839%) hue-rotate(178deg) brightness(96%) contrast(86%);
+}
+
+.color-eliminar{
+    filter: invert(16%) sepia(95%) saturate(3655%) hue-rotate(349deg) brightness(86%) contrast(90%);
+}
+
+.square {
+    object-fit: cover;
+    width:64px;
+    height:64px;
+  }
